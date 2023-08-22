@@ -1,0 +1,36 @@
+.head1{
+    background-image: url(./assets/Group\ 1000006972.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll ;
+    background-color: #F9F6F4;
+    background-position: 0;
+}
+.head2{
+    background-attachment: scroll;
+    background-image: url(./assets/image\ 108.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.box{
+    background-color: orangered;
+    box-shadow: 10px 10px  black,-10px 10px black !important ;
+}
+.page5{
+    background-image: url(./assets/Rectangle\ 4001.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll ;
+    background-color: #F9F6F4;
+   
+}
+.page6{
+    background-attachment: scroll;
+    background-image: url(./assets/image\ 110.png);
+    background-repeat: no-repeat;
+    background-position: 70% 10%;
+}
+.page8{
+    background-color: #F9F6F4;
+}
+.orange{
+    color: orangered;
+}
