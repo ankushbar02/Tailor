@@ -1,4 +1,4 @@
-#Tailor
+<h1>Tailor</h1>
 <h1><a href="https://ankushbar02.github.io/Tailor">Visit Site</a></h1>
 <h2>Table of Contents</h2>
 <ul>
